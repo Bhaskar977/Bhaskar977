@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **HTML,CSS,Javascript,React.js,Redux.js**
+- 💬 Ask me about **HTML,CSS,Javascript,React.js,Redux.js,Redux toolkit**
 
 - 📫 How to reach me **bhaskerjoshi977@gmail.com**
 
